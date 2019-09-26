@@ -1,2 +1,2 @@
-mypy.exe main.py
+py main.py
 Pause
